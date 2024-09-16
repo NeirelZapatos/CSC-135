@@ -1,4 +1,4 @@
-# ask why this doesnt work
+# ask why this doesnt work. It doesn't work because when you pass a list it passes by reference
 # def stutter_list(num_list):
 #     if len(num_list) == 1:
 #         num_list.append(num_list[0])
